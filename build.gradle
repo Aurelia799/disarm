@@ -32,6 +32,7 @@ minecraft {
 
         client {
             property 'forge.enabledGameTestNamespaces', 'disarmmod'
+            property 'fml.earlyWindowControl', 'false'
         }
 
         server {
