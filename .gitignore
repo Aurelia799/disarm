@@ -1,0 +1,34 @@
+# Eclipse
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Gradle
+.gradle/
+build/
+classes/
+
+# Other
+run/
+logs/
+*.log
+*.class
+*.jar
+!gradle-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Forge
+src/generated/
